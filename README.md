@@ -81,7 +81,7 @@ We recommend bookmarking these folders for quick access to the specific content 
 ## Support
 
 - **Issues / Questions**: If you find errors in the class materials, feel free to open an [Issue](#) (if enabled) or email the instructor/TA.
-- **Contact**: For private matters, email me at [Instructor Email], or message me on our LMS.
+- **Contact**: For private matters, email me at my [Instructor Email], or message me on our LMS.
 - **Office Hours**: Check the syllabus or announcements for office hour times.
 
 ---
