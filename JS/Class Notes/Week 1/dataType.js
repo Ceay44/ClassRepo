@@ -5,6 +5,12 @@
 
 ///// We can write any JavaScript code on the Google console or any browser console
 
+// Method//	               //Description//	                       //BestFor//
+// console.log()           DeveloperConsoleonly                     Debugging
+// document.write()	       Directly writes to page	                Quick tests (old way)
+// innerHTML	           Target element and change content	    Modern + Recommended
+// document.body.innerHTML +=	Append directly to page	            Simple page output
+
 ////// a built-in function ***console.log()***. We can pass an argument as input data, and the function displays the output
 
 ////// We passed 'Hello, World' as input data or argument in the console.log() function 
