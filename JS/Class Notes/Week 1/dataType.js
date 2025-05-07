@@ -25,7 +25,7 @@ console.log() // Exponentiation 3 ** 2 == 3 * 3
 
 
 
-/** Syntax*/
+////** Syntax*////
  
 // Programming languages are similar to human languages. English or many other language uses words, phrases, sentences, compound sentences and other more to convey a meaningful message. 
 
@@ -50,10 +50,12 @@ console.log() // Exponentiation 3 ** 2 == 3 * 3
 // In JavaScript and also other programming languages, there are different types of data types. The following are JavaScript primitive data types: String, Number, Boolean, undefined, Null, and Symbol.
 
 // /// Numbers ///
-// Integers: Integer (negative, zero and positive) numbers Example:
+// Integers: 
+// Integer (negative, zero and positive) numbers Example:
 //  ... -3, -2, -1, 0, 1, 2, 3 ...
 
-// Float-point numbers: Decimal number Example:
+// Float-point numbers: 
+// Decimal number Example:
 //  ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
 
 // /// Strings ///
@@ -86,6 +88,36 @@ console.log() // Exponentiation 3 ** 2 == 3 * 3
 
 
 // non-primative data types
+// Non-Primitive Data Types (also called reference types) are types of data that can store collections of values or more complex data.
+
+// Unlike primitive types (like number, string, boolean, which hold single values), non-primitive types hold multiple values and are more flexible.
+
+// Also important:
+// Non-primitive data types are always mutable and stored by reference (not by value).
+// Type //	     /// Description ///
+// Object	        Collection of key-value pairs
+// Array	        Ordered list of values (technically an object)
+// Function	        Reusable block of code (also technically an object)
+// Date	            Stores date and time (special object)
+// RegExp	        Regular expressions (special object)
+
+// Primitive vs Non-Primitive (quick comparison) ///
+  // Primitive ///	                   // Non-Primitive ///
+// Stored by Value	                  Stored by Reference
+// Immutable	                      Mutable
+// Simple(single values)	          Complex (collections, methods, etc.)
+// Example: Number, String, Boolean	  Example: Object, Array, Function
+
+// Primitive → Single simple data
+// Non-Primitive → Complex and can hold multiple data
+
+// You use Non-Primitive when you want to:
+
+// ✔️ Group things together
+// ✔️ Store related data
+// ✔️ Reuse code (functions)
+// ✔️ Handle time/dates
+// ✔️ Use patterns (RegExp)
 
 
 
