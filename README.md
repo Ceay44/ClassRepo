@@ -23,25 +23,31 @@ We have organized the repository into several subfolders:
 
 1. **Clone This Repo**  
    - If this is your first time, clone the repo to your local machine:  
+
      ```bash
      git clone https://github.com/ceay44/ClassRepo.git
      ```
+
    - This creates a local folder named `ClassRepo/`.
 
 2. **Pull Updates Daily**  
    - We will add new notes, slides, and assignments here throughout the course.
    - Each day (or whenever you start working), **pull the latest changes**:
+
      ```bash
      git pull origin main
      ```
+
    - This ensures your local copy is up to date with the instructor’s version.
 
 3. **Copy Materials to Your Personal Repo**  
    - You should **not** push changes to this repository. Instead, maintain your own repository for your solutions or personal notes.
    - After pulling the latest updates in `ClassRepo/`, copy the relevant files (assignments, notes, etc.) into your personal repo. Example:
+
      ```bash
      cp -r ClassRepo/HTML/Assignment/Assignment1 ~/MyWorkRepo/Assignment1
      ```
+
    - Then, commit and push in your own repository.
 
 4. **Submit Your Work**  
@@ -52,7 +58,7 @@ We have organized the repository into several subfolders:
 ## Folder-by-Folder Breakdown
 
 - **HTML/Resources and Lecture Slides**  
-  - Location for any reference materials, extra readings, and slides used during lectures. 
+  - Location for any reference materials, extra readings, and slides used during lectures.
 
 - **HTML/Class Note**  
   - Contains organized notes or “cheat sheets” that correspond to your lectures, labs, or group discussions.
@@ -80,7 +86,7 @@ We recommend bookmarking these folders for quick access to the specific content 
 
 ## Support
 
-- **Issues / Questions**: If you find errors in the class materials, feel free to open an [Issue](#) (if enabled) or email the instructor/TA.
+- **Issues / Questions**: If you find errors in the class materials, feel free to open an # (if enabled) or email the instructor/TA.
 - **Contact**: For private matters, email me at my [Instructor Email], or message me on our LMS.
 - **Office Hours**: Check the syllabus or announcements for office hour times.
 
